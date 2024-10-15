@@ -1,0 +1,72 @@
+->Câmeras térmicas X termográficas
+
+As câmeras termográficas são utilizadas em ambientes internos ou controlados, oferecendo um alcance menor comparado às câmeras térmicas. Estas últimas são ideais para ambientes externos, pois possuem longo alcance e capacidade de visão noturna. As câmeras térmicas funcionam formando imagens a partir da radiação infravermelha, exibindo as temperaturas das áreas observadas.
+
+->Tipos diferentes de câmera para cada situação
+
+O software de gestão seria aplicado em rodovias de BR e BA onde ocorrem mais incêndios criminosos, causados pelo descarte de materiais como plástico, papel e vidro pelos motoristas. Além de localizar incêndios, seria capaz de identificar se o incêndio foi criminoso e qual foi a causa, lendo a placa do carro do motorista infrator. O software gerenciaria inteligências, criaria relatórios e controlaria dispositivos de CFTV, alarme e controle de acesso. Além do módulo térmico, contaria com leitura automática de placas, reconhecimento facial, busca forense, contagem de pessoas e outras inteligências.
+
+A câmera térmica híbrida é ideal para ambientes fechados, como a Floresta Amazônica, onde ocorrem tanto incêndios criminosos quanto naturais. Devido à densa vegetação e à vasta extensão do local, essa câmera seria altamente eficiente, pois sua precisão permite distinguir diferentes temperaturas dos corpos presentes. A câmera térmica híbrida mede a temperatura de corpos e objetos, parados ou em movimento, com uma precisão de até 1 °C.
+
+-> localização e cuidados com a câmera 
+
+Primeiramente, a localização das câmeras deve ser estratégica: nas rodovias precisam ser instaladas em locais altos para evitar danos causados por incêndios de grande escala. Já nas florestas preservadas, câmeras térmicas já são utilizadas para o mapeamento de animais em extinção ou pré-extinção. Tanto as das rodovias quanto as das florestas devem ser à prova d'água e contar com medidas contra furtos, como a camuflagem que preservaria o ambiente natural dos animais nas florestas.
+
+Essas câmeras terão um sistema de monitoramento que funcionaria da seguinte forma:
+
+Um aplicativo diretamente ligado às câmeras, com quatro divisões. Na primeira divisão, serão abordados os cuidados necessários para elas, verificando possíveis defeitos ou problemas, tanto externos quanto internos, para que a manutenção seja feita o quanto antes. Na segunda divisão, destinada ao Corpo de Bombeiros, que, em caso de pequenos focos de incêndio seriam alertados imediatamente. A terceira divisão será direcionada à população, permitindo que fiquem cientes do ocorrido na área para evitar a região e tomar medidas de proteção, especialmente em áreas florestais. A quarta divisão será voltada à Polícia, para que possam monitorar o local e, em caso de queimadas intencionais, identificar placas de veículos ou pessoas envolvidas bem como investigação em casos de furto dos dispositivos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Câmeras Térmicas e Termográficas: Soluções para Monitoramento e Segurança
+Câmeras Térmicas vs. Termográficas
+As câmeras termográficas são indicadas para ambientes internos ou controlados, oferecendo um alcance menor em comparação às câmeras térmicas. Estas últimas são ideais para ambientes externos, pois possuem longo alcance e capacidade de visão noturna. As câmeras térmicas formam imagens a partir da radiação infravermelha, exibindo as temperaturas das áreas observadas.
+
+Tipos de Câmera para Diferentes Situações
+O software de gestão será implementado em rodovias de BR e BA, onde há uma maior incidência de incêndios criminosos, geralmente causados pelo descarte de materiais como plástico, papel e vidro pelos motoristas. Além de localizar os incêndios, o software será capaz de identificar se o incêndio foi criminoso e sua causa, através da leitura da placa do veículo do infrator. Ele também gerenciará inteligências, criará relatórios e controlará dispositivos de CFTV, alarmes e controle de acesso. O sistema incluirá leitura automática de placas, reconhecimento facial, busca forense, contagem de pessoas e outras funcionalidades inteligentes.
+
+A câmera térmica híbrida é ideal para ambientes fechados, como a Floresta Amazônica, onde ocorrem tanto incêndios criminosos quanto naturais. Devido à densa vegetação e à vasta extensão da floresta, essa câmera é altamente eficiente, pois sua precisão permite distinguir diferentes temperaturas dos corpos presentes. A câmera térmica híbrida mede a temperatura de corpos e objetos, parados ou em movimento, com uma precisão de até 1 °C.
+
+Localização e Cuidados com as Câmeras
+A localização das câmeras deve ser estratégica. Nas rodovias, elas precisam ser instaladas em locais altos para evitar danos causados por incêndios de grande escala. Nas florestas preservadas, câmeras térmicas já são utilizadas para o mapeamento de animais em extinção ou pré-extinção. Tanto nas rodovias quanto nas florestas, as câmeras devem ser à prova d'água e contar com medidas contra furtos, como a camuflagem, que preserva o ambiente natural dos animais nas florestas.
+
+Essas câmeras terão um sistema de monitoramento composto por quatro divisões:
+
+Cuidados e Manutenção: Verificação de possíveis defeitos ou problemas, tanto externos quanto internos, para que a manutenção seja feita o quanto antes.
+
+Corpo de Bombeiros: Monitoramento do local e alerta imediato em caso de pequenos focos de incêndio.
+
+População: Informação para que fiquem cientes de incêndios na área e tomem medidas de proteção, especialmente em áreas florestais.
+
+Polícia: Monitoramento do local para identificar placas de veículos ou pessoas envolvidas em incêndios criminosos e investigação em casos de furto das câmeras.
