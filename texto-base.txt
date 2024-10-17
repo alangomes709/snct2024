@@ -1,0 +1,80 @@
+Mapa Geografico ao seu redor:
+Um programa de computador, conectado a uma rede de satélites,será responsavel pelo mapeamento em tempo real das áreas monitoradas. O software integrará as imagens das câmeras, analisará os dados e, ao identificar un foco de calor suspeito, emitirá um alerta 
+
+* Legendas e níveis de segurança:
+Quando o sistema identificar um foco de incêndio, ele enviará automaticamente as coordenadas exatas para as autoridades competentes (Corpo de Bombeiros, Defesa Civil, etc.). O alerta incluirá um mapeamento detalhado do local, facilitando uma resposta rápida e direcionada.
+1. Vermelho: Significa que tal área está sofrendo queimadas (Nível 3)
+2. Laranja: Risco de expansão de queimada ( Nível 2)
+3. Amarelo: Área em possivel risco de incêndio criminoso (Nível 1)
+
+* Caso haja algum incêndio, há um botão para ligar para as autoridades locais
+
+
+Autoridades
+
+
+2 Aba
+* Controlar a câmera:  Clicando no ícone de "câmera", abrirá câmeras que estão conectadas/ disponiveis. Nisso, podemos dar zoom, mudar o FOV e controlar a direção da câmera.
+
+ 3 aba
+* Diagnóstico:
+Nessa aba, você poderá acessar o diagnóstico da câmera, Conseguindo ver o estado:
+- Dos sensores
+- Da calibração
+-  Atualizações do sistema
+-  do Motor giratorio
+-  A conexão
+Mapa: acessar qualquer área dentro de qualquer estado do Brasil
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Mapeamento Geográfico e Monitoramento de Incêndios Florestais
+Introdução
+Com o avanço da tecnologia, um programa de computador, integrado a uma rede de satélites, é capaz de realizar o mapeamento em tempo real das áreas monitoradas. Este software integra imagens das câmeras, analisa os dados e, ao identificar um foco de calor suspeito, emite um alerta imediato.
+
+Legendas e Níveis de Segurança
+Quando o sistema identifica um foco de incêndio, as coordenadas exatas são enviadas automaticamente para as autoridades competentes, como o Corpo de Bombeiros e a Defesa Civil. O alerta inclui um mapeamento detalhado do local, facilitando uma resposta rápida e eficiente. Os níveis de alerta são:
+
+Vermelho: Área sofrendo queimadas (Nível 3)
+
+Laranja: Risco de expansão de queimada (Nível 2)
+
+Amarelo: Área em possível risco de incêndio criminoso (Nível 1)
+
+Além disso, em caso de incêndio, há um botão de emergência para ligar diretamente para as autoridades locais.
+
+Controle de Câmera
+Ao clicar no ícone de "câmera", é possível acessar câmeras conectadas e disponíveis, permitindo zoom, alteração do campo de visão (FOV) e controle da direção da câmera.
+
+Diagnóstico
+Na aba de diagnóstico, o usuário pode verificar o estado dos componentes da câmera, incluindo:
+
+Sensores
+
+Calibração
+
+Atualizações do sistema
+
+Motor giratório
+
+Conexão
+
+Acesso ao Mapa
+O usuário pode acessar qualquer área dentro de qualquer estado do Brasil, tornando o monitoramento mais abrangente e eficiente.
+
+Câmeras Térmicas x Termográficas
+As câmeras termográficas são utilizadas em ambientes internos ou controlados, oferecendo um alcance menor comparado às câmeras térmicas. Estas últimas são ideais para ambientes externos, pois possuem longo alcance e capacidade de visão noturna. As câmeras térmicas funcionam formando imagens a partir da radiação infravermelha, exibindo as temperaturas das áreas observadas.
+
+Tipos Diferentes de Câmera para Cada Situação
+O software de gestão seria aplicado em rodovias de BR e BA onde ocorrem mais incêndios criminosos, causados pelo descarte de materiais como plástico, papel e vidro pelos motoristas. Além de localizar incêndios, seria capaz de identificar se o incêndio foi criminoso e qual foi a causa, lendo a placa do carro do motorista infrator. O software gerenciaria inteligências, criaria relatórios e controlaria dispositivos de CFTV, alarme e controle de acesso. Além do módulo térmico, contaria com leitura automática de placas, reconhecimento facial, busca forense, contagem de pessoas e outras inteligências.
+
+Câmera Térmica Híbrida
+A câmera térmica híbrida é ideal para ambientes fechados, como a Floresta Amazônica, onde ocorrem tanto incêndios criminosos quanto naturais. Devido à densa vegetação e à vasta extensão do local, essa câmera seria altamente eficiente, pois sua precisão permite distinguir diferentes temperaturas dos corpos presentes. A câmera térmica híbrida mede a temperatura de corpos e objetos, parados ou em movimento, com uma precisão de até 1 °C.
+
+Personalização de Áreas de Interesse
+O sistema permite aos usuários definir e monitorar áreas específicas de interesse dentro do mapa. Isso é particularmente útil para propriedades privadas, reservas florestais ou áreas agrícolas, garantindo que qualquer atividade suspeita seja detectada imediatamente.
+
+Histórico e Previsões
+O usuário pode acessar o histórico de incidentes de incêndio em uma determinada área, bem como previsões baseadas em dados climáticos e padrões passados, ajudando na preparação e prevenção.
