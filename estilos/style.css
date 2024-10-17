@@ -25,28 +25,6 @@ body {
     background-color: #ffffff;
 }
 
-/* header {
-    /* background-image: url(../imagens/wallpaper006.jpg); */
-    background-position: center center;
-    text-align: left;
-    padding: 10px;
-    font-family: var(--fonte-destaque);
-    box-shadow: 1px 1px 3px#00000077;
-   
-    /* position: none; */
-    top: 0px;
-} */
-
-/* header h1 {
-    display: inline-block;
-    color: var(--cor3);
-    font-weight: bold;
-    font-size: 3em;
-    padding: 10px;
-    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.479);
-    position: absolute;
-} */
-
 nav {
     padding: 10px;
     display: inline;
@@ -71,6 +49,11 @@ img.logo {
 
 img.logo:hover {
     background-color: rgba(54, 49, 44, 0.479);
+}
+
+main > img {
+    margin: auto;
+    max-width: 500px;
 }
 
 main {
@@ -136,7 +119,6 @@ h1#titulo-principal {
     padding: 10px;
     text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.479);
     margin: auto
-    text-indent: ;
 }
 
 div#niveis-perigo {
