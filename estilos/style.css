@@ -55,6 +55,7 @@ img.logo:hover {
 header {
     background-image: url(../imagens/header-background.png);
     background-position: center center;
+    background-color: var(--cor6);
     text-align: left;
     padding: 10px;
     font-family: var(--fonte-destaque);
