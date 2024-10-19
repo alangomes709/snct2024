@@ -58,8 +58,8 @@ header {
     text-align: left;
     padding: 10px;
     font-family: var(--fonte-destaque);
-    box-shadow: 1px 1px 3px#00000077;
-    height: 70px;
+    box-shadow: 4px 3px 10px#00000077;
+    height: 80px;
     position: sticky;
     top: 0px;
 }
