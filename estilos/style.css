@@ -52,6 +52,27 @@ img.logo:hover {
     background-color: rgba(54, 49, 44, 0.479);
 }
 
+header {
+    background-image: url(../imagens/header-background.png);
+    background-position: center center;
+    text-align: left;
+    padding: 10px;
+    font-family: var(--fonte-destaque);
+    box-shadow: 1px 1px 3px#00000077;
+    height: 70px;
+    position: sticky;
+    top: 0px;
+}
+
+header h1 {
+    display: inline-block;
+    color: var(--cor3);
+    font-weight: bold;
+    font-size: 3em;
+    padding: 10px;
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.479);
+}
+
 main > img {
     margin: auto;
     max-width: 350px;
@@ -124,6 +145,7 @@ h1#titulo-principal {
 
 div.titulo {
     text-align: center;
+    padding: 20px;
 }
 
 div#niveis-perigo {
